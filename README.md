@@ -4,7 +4,7 @@
 
 In today's information-rich landscape, the deluge of textual data poses a significant challenge, necessitating efficient methods for distilling key information. This project delves into the domain of abstractive text summarization, where the focus lies on generating novel phrases and sentences to convey the essence of the source material. The study evaluates the efficacy of advanced transformer-based models, including PEGASUS, BART, and T5, in the context of abstractive summarization.
 
-## Authors
+## Author
 
 - **Dhruva Sandu**  
   Department of Computer Engineering and Technology  
